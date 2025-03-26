@@ -65,7 +65,7 @@ The rest of the definitions and training are the same
 If you find this project useful for your research, please consider citing:
 
 ```bash
-@article{gu2025FDEGCNet,
+@article{gu2025fdegcet,
   title={A Feature Dynamic Enhancement and Global Collaboration Guidance Network for Remote Sensing Image Compression},
   author={Qizhi FANG, Shibo GU, Jingang WANG and Lili ZHANG},
   journal={Radioengineering},
